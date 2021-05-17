@@ -20,11 +20,13 @@
 
 
 ### 教学成果曾获奖励情况
-
-- [2020年，“社会主义核心价值观”融入经管类专业教育的探索与实践，获陕西省教学成果奖“二等奖”](https://github.com/dakuamao/kcsz.com/blob/gh-pages/%E6%95%99%E5%AD%A6%E6%88%90%E6%9E%9C%E5%A5%962.jpg)
-- [2013年，基于实践教学创新的管理类应用型本科人才培养模式研究与实践，获陕西省教学成果奖“二等奖”](https://github.com/dakuamao/kcsz.com/blob/gh-pages/jxcgj.jpg)
-- [2019年，“社会核心价值观教育”和“专业素质培养”相融合的经管类本科教学体系改革探索与实践，获西安理工大学“特等奖”](https://github.com/dakuamao/kcsz.com/blob/gh-pages/jxcg.jpg)
-- [2019年，西安理工大学“树魂立根 课程育人”讲课比赛，获“三等奖”]
+- 2020年，“社会主义核心价值观”融入经管类专业教育的探索与实践，获陕西省教学成果奖“二等奖”
+ ！[](https://github.com/dakuamao/kcsz.com/blob/gh-pages/%E6%95%99%E5%AD%A6%E6%88%90%E6%9E%9C%E5%A5%962.jpg)
+- 2013年，基于实践教学创新的管理类应用型本科人才培养模式研究与实践，获陕西省教学成果奖“二等奖”
+！[](https://github.com/dakuamao/kcsz.com/blob/gh-pages/jxcgj.jpg)
+- 2019年，“社会核心价值观教育”和“专业素质培养”相融合的经管类本科教学体系改革探索与实践，获西安理工大学“特等奖”
+！[](https://github.com/dakuamao/kcsz.com/blob/gh-pages/jxcg.jpg)
+-2019年，西安理工大学“树魂立根 课程育人”讲课比赛，获“三等奖”
 ### 比赛获奖
 2017年，“互联网+”大学生创新创业大赛中，项目“健康智管家”，获“三等奖”
 ![](./2017hlwj.gif)
