@@ -18,7 +18,7 @@
 - [2019年，“社会核心价值观教育”和“专业素质培养”相融合的经管类本科教学体系改革探索与实践，获西安理工大学“特等奖”](https://github.com/dakuamao/kcsz.com/blob/gh-pages/jxcg.jpg)
 - [2019年，西安理工大学“树魂立根 课程育人”讲课比赛，获“三等奖”]
 
-## License
-MIT License
+## 网站维护
+Zhao-Yong Sun
 
 [![JekyllThemes](https://img.shields.io/badge/featured%20on-JekyllThemes-red.svg)](https://jekyll-themes.com)
