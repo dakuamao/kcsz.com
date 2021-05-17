@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## 西安理工大学教学成果奖
 
-You can use the [editor on GitHub](https://github.com/dakuamao/kcsz/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+西安理工大学经济与管理学院教学成果奖
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 教改项目
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+教学团队主持的教改项目
+
 
 ```markdown
 Syntax highlighted code block
@@ -28,10 +28,11 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### 教学成果曾获奖励情况
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dakuamao/kcsz/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+2020，“社会主义核心价值观”融入经管类专业教育的探索与实践，获陕西省教学成果奖“二等奖”
+2013，基于实践教学创新的管理类应用型本科人才培养模式研究与实践，获陕西省教学成果奖“二等奖”
+2019，“社会核心价值观教育”和“专业素质培养”相融合的经管类本科教学体系改革探索与实践，获西安理工大学“特等奖”
+### 比赛获奖
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
