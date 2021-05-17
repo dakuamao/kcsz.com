@@ -21,4 +21,4 @@
 ## 网站维护
 Zhao-Yong Sun
 
-[![JekyllThemes](https://img.shields.io/badge/featured%20on-JekyllThemes-red.svg)](https://jekyll-themes.com)
+[![教学成果奖展示](https://img.shields.io/badge/featured%20on-JekyllThemes-red.svg)](https://dakuamao.github.io/kcsz.com/)
