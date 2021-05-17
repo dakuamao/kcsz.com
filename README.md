@@ -2,7 +2,7 @@
 
 部分成果展示. [部分成果展示](https://github.com/dakuamao/kcsz.com/blob/gh-pages/%E5%B0%81%E9%9D%A2.png)
 
-![Gradfolio Template Homepage](https://user-images.githubusercontent.com/2485715/110634179-acaa7e00-81cf-11eb-8846-062ecf961d1e.png)
+![Gradfolio Template Homepage](https://github.com/dakuamao/kcsz.com/blob/gh-pages/%E5%B0%81%E9%9D%A2.png)
 
 ## Features
 - Responsive
