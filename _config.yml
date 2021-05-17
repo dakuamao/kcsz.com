@@ -1,4 +1,4 @@
-  
+theme: jekyll-theme-cayman
 # site settings
 title: Forty
 subtitle: by HTML5 UP
@@ -14,4 +14,4 @@ zip_code: 55555
 country: United States of America
 phone: (716) 555-5555
 
-theme: jekyll-theme-cayman
+
