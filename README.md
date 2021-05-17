@@ -12,24 +12,11 @@
 - 构建了思政课程教师参与专业教学的协同育人模式。充分发挥思政教育与专业教育的协同效应，思政课程教师深度参与专业教学的各个环节，协同发挥课程体系教育功能，协同强化管理育人机制，将思想政治教育融入到学生职业素质培养的全过程。
 - 孵化大量体现精准思政内涵的教改成果。完成省级精品课程《国际金融实务（双语课）》和《ERP 沙盘模拟》，承担的线上 MOOC 《计量经济学》和省级创新创业类精品课程《创新方法论》。在 MOOC 教学中注重价值观融入，实现知识传授和价值引领的有机统一。出版了专业教材《投资学》、《计量经济学》，教材内容重视价值观、人生观和世界观与专业知识的结合。
 - 培养了一批具备爱国情怀和责任担当的专业人才。近年来，学生关注社会热点问题，社会责任感和实践创新能力极大提高，在全国大形势挑战杯、大学生创新创业大赛、互联网+创新创业项目获得大量奖项。
-## Installation
-* Click on `Use this template`
-* Your new site should be ready at https://username.github.io/gradfolio/
-* You can now modify the contents and personalise the template
-
-Alternatively, you can [download the source files](https://github.com/jitinnair1/gradfolio/archive/master.zip) and make changes locally. 
-
-To test these changes, open a terminal inside the source folder and use `jekyll serve --incremental --trace` to make it available on a local server (typically http://localhost:4000/)
-
-The `--incremental` flag ensures that any changes you make are reflected in your browser in real time and the `--trace` option might be useful for debugging if things break while you are changing the source files.
-
-Once you have personalised and tested the site, you can create a new repo, upload these files and host your website from the repo.
-
-## Based on
-- [hagura](https://github.com/sharu725/hagura)
-- [al-folio](https://github.com/alshedivat/al-folio)
-- [noir](https://github.com/essentialenemy/noir)
-- [jekyll-TeXt-theme](https://github.com/kitian616/jekyll-TeXt-theme)
+## 教学成果曾获奖励情况
+- [2020年，“社会主义核心价值观”融入经管类专业教育的探索与实践，获陕西省教学成果奖“二等奖”](https://github.com/dakuamao/kcsz.com/blob/gh-pages/%E6%95%99%E5%AD%A6%E6%88%90%E6%9E%9C%E5%A5%962.jpg)
+- [2013年，基于实践教学创新的管理类应用型本科人才培养模式研究与实践，获陕西省教学成果奖“二等奖”](https://github.com/dakuamao/kcsz.com/blob/gh-pages/jxcgj.jpg)
+- [2019年，“社会核心价值观教育”和“专业素质培养”相融合的经管类本科教学体系改革探索与实践，获西安理工大学“特等奖”](https://github.com/dakuamao/kcsz.com/blob/gh-pages/jxcg.jpg)
+- [2019年，西安理工大学“树魂立根 课程育人”讲课比赛，获“三等奖”]
 
 ## License
 MIT License
