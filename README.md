@@ -1,6 +1,6 @@
-# Gradfolio
+# 西安理工大学教学成果奖
 
-responsive, dark-mode ready Jekyll theme designed for use as a personal website and portfolio. [Here's a live demo](https://jitinnair1.github.io/gradfolio/)
+部分成果展示. [部分成果展示](https://github.com/dakuamao/kcsz.com/blob/gh-pages/%E5%B0%81%E9%9D%A2.png)
 
 ![Gradfolio Template Homepage](https://user-images.githubusercontent.com/2485715/110634179-acaa7e00-81cf-11eb-8846-062ecf961d1e.png)
 
