@@ -1,6 +1,6 @@
 # 西安理工大学教学成果奖
 
-部分成果展示. [部分成果展示](https://github.com/dakuamao/kcsz.com/blob/gh-pages/%E5%B0%81%E9%9D%A2.png)
+部分获奖 [部分成果展示](https://github.com/dakuamao/kcsz.com/blob/gh-pages/%E5%B0%81%E9%9D%A2.png)
 
 ![Gradfolio Template Homepage](https://github.com/dakuamao/kcsz.com/blob/gh-pages/%E5%B0%81%E9%9D%A2.png)
 
